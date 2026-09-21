@@ -3,7 +3,7 @@
 ## 📌 Executive Summary
 An interactive Power BI dashboard tracking South Africa's retail fuel prices, month-on-month trends, rolling moving averages, and underlying cost components (Basic Fuel Price, Fuel Levy, RAF Levy, and Distribution Costs).
 
-![South Africa Fuel Price Dashboard](dashboards/PetrolPiles_Dashboard.png)
+![South Africa Fuel Price Dashboard](Petrol_Pulse_Dashboard.png)
 
 ---
 
